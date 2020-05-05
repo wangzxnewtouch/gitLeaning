@@ -3,3 +3,4 @@ java
 git stash apply pop
 temp modify task2
 git stash apply pop
+temp add add
